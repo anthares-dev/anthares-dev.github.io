@@ -6,7 +6,7 @@ items:
     subtitle: MOBILE APP
     description: |-
       Progressive web app (PWA) for travelers: this collaborative app will provide access to different itineraries and activities for users wanting to discover or share experiences in a city.
-    image: images/mytinerary.png
+    image: https://anthares-dev.github.io/images/mytinerary.png
     image_ratio: is-fullwidth
     link: https://mytinerary2019.herokuapp.com
     link_text: View example on mobile browser
