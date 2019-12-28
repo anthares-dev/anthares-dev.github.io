@@ -23,3 +23,25 @@ items:
     link_text: View example
     tags: JavaScript, AJAX, JSON, RESTful APIs
     github: anthares-dev/TGIF
+
+  - title: NORTHSIDE YOUTH SOCCER LEAGUE (NYSL)
+    subtitle: WEB APP
+    description: |-
+      Website for the Northside Youth Soccer League, a youth football league: blog style for upcoming events, game information schedules, rules and registration form.
+    image: https://res.cloudinary.com/dpogboofu/image/upload/v1577536877/portfolio/NYSL_o8qt50.jpg
+    image_ratio: is-fullwidth
+    link: https://anthares-dev.github.io/NYSL/
+    link_text: View example
+    tags: HTML, CSS, Flexbox
+    github: anthares-dev/NYSL
+
+  - title: BOOKSTORE
+    subtitle: WEB APP
+    description: |-
+      Website for an online bookstore: data in remote JSON can be filtered for checkboxes and search live input according to the books' language.
+    image: https://res.cloudinary.com/dpogboofu/image/upload/v1577536877/portfolio/bookstore_ovvtzc.jpg
+    image_ratio: is-fullwidth
+    link: https://musing-nightingale-d876f5.netlify.com/
+    link_text: View example
+    tags: React, JSON, Bootstrap, FancyBox
+    github: anthares-dev/Bookstore
