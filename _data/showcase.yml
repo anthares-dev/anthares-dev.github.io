@@ -6,7 +6,7 @@ items:
     subtitle: MOBILE APP
     description: |-
       Progressive web app (PWA) for travelers: this collaborative app will provide access to different itineraries and activities for users wanting to discover or share experiences in a city.
-    image: https://anthares-dev.github.io/images/mytinerary.png
+    image: ./images/mytinerary.png
     image_ratio: is-fullwidth
     link: https://mytinerary2019.herokuapp.com
     link_text: View example on mobile browser
@@ -17,7 +17,7 @@ items:
     subtitle: WEB APP
     description: |-
       Custom JavaScript-based web application for a non-partisan non-profit organization working to increase the public’s involvement in government. Congressional data from the ProPublica Congress API.
-    image: images/TGIF.jpg
+    image: ./images/TGIF.jpg
     image_ratio: is-fullwidth
     link: https://anthares-dev.github.io/TGIF
     link_text: View example
