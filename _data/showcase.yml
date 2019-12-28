@@ -10,8 +10,19 @@ items:
     image_ratio: is-fullwidth
     link: https://mytinerary2019.herokuapp.com
     link_text: View example on mobile browser
-    tags: MERN, React.js, Node.js, Express, MongoDB, Redux, encrypted authentication in Base64URL, Google oAuth 2.0, Material UI
+    tags: MERN stack, React.js, Node.js, Express, MongoDB, Redux, Hooks, encrypted authentication JWT in Base64URL, Google oAuth 2.0, favorite and comment system, Material UI, Responsive
     github: anthares-dev/MYtinerary
+
+  - title: BOOKSTORE
+    subtitle: WEB APP
+    description: |-
+      Single Web App for an online bookstore: data in remote JSON can be filtered for checkboxes and search live input according to the books' language.
+    image: https://res.cloudinary.com/dpogboofu/image/upload/v1577536877/portfolio/bookstore_ovvtzc.jpg
+    image_ratio: is-fullwidth
+    link: https://musing-nightingale-d876f5.netlify.com/
+    link_text: View example
+    tags: React.js, JSON, Bootstrap 4, FancyBox, Filtering, Instant search engine
+    github: anthares-dev/Bookstore
 
   - title: TRANSPARENT GOVERNMENT IN FACT (TGIF)
     subtitle: WEB APP
@@ -21,7 +32,7 @@ items:
     image_ratio: is-fullwidth
     link: https://anthares-dev.github.io/TGIF
     link_text: View example
-    tags: JavaScript, AJAX, JSON, RESTful APIs
+    tags: Vanilla JavaScript, Bootstrap 4, AJAX, JSON, RESTful APIs, Filter engine
     github: anthares-dev/TGIF
 
   - title: NORTHSIDE YOUTH SOCCER LEAGUE (NYSL)
@@ -32,16 +43,5 @@ items:
     image_ratio: is-fullwidth
     link: https://anthares-dev.github.io/NYSL/
     link_text: View example
-    tags: HTML, CSS, Flexbox
+    tags: HTML5, CSS3, Flexbox, Registration form
     github: anthares-dev/NYSL
-
-  - title: BOOKSTORE
-    subtitle: WEB APP
-    description: |-
-      Website for an online bookstore: data in remote JSON can be filtered for checkboxes and search live input according to the books' language.
-    image: https://res.cloudinary.com/dpogboofu/image/upload/v1577536877/portfolio/bookstore_ovvtzc.jpg
-    image_ratio: is-fullwidth
-    link: https://musing-nightingale-d876f5.netlify.com/
-    link_text: View example
-    tags: React, JSON, Bootstrap, FancyBox
-    github: anthares-dev/Bookstore
