@@ -1,0 +1,25 @@
+intro: |-
+  ## My last projects
+
+items:
+  - title: MYTINERARY
+    subtitle: MOBILE APP
+    description: |-
+      Progressive web app (PWA) for travelers: this collaborative app will provide access to different itineraries and activities for users wanting to discover or share experiences in a city.
+    image: images/mytinerary.png
+    image_ratio: is-fullwidth
+    link: https://mytinerary2019.herokuapp.com
+    link_text: View example on mobile browser
+    tags: MERN, React.js, Node.js, Express, MongoDB, Redux, encrypted authentication in Base64URL, Google oAuth 2.0, Material UI
+    github: anthares-dev/MYtinerary
+
+  - title: TRANSPARENT GOVERNMENT IN FACT (TGIF)
+    subtitle: WEB APP
+    description: |-
+      Custom JavaScript-based web application for a non-partisan non-profit organization working to increase the public’s involvement in government. Congressional data from the ProPublica Congress API.
+    image: images/TGIF.jpg
+    image_ratio: is-fullwidth
+    link: https://anthares-dev.github.io/TGIF
+    link_text: View example
+    tags: JavaScript, AJAX, JSON, RESTful APIs
+    github: anthares-dev/TGIF
