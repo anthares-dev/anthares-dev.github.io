@@ -19,7 +19,7 @@ items:
       Single Web App for an online bookstore: data in remote JSON can be filtered for checkboxes and search live input according to the books' language.
     image: https://res.cloudinary.com/dpogboofu/image/upload/v1577536877/portfolio/bookstore_ovvtzc.jpg
     image_ratio: is-fullwidth
-    link: https://musing-nightingale-d876f5.netlify.com/
+    link: https://bookstore2019.netlify.com
     link_text: View example
     tags: React.js, JSON, Bootstrap 4, FancyBox, Filtering, Instant search engine
     github: anthares-dev/Bookstore
@@ -41,7 +41,7 @@ items:
       Website for the Northside Youth Soccer League, a youth football league: blog style for upcoming events, game information schedules, rules and registration form.
     image: https://res.cloudinary.com/dpogboofu/image/upload/v1577536877/portfolio/NYSL_o8qt50.jpg
     image_ratio: is-fullwidth
-    link: https://anthares-dev.github.io/NYSL/
+    link: https://anthares-dev.github.io/NYSL
     link_text: View example
     tags: HTML5, CSS3, Flexbox, Registration form
     github: anthares-dev/NYSL
