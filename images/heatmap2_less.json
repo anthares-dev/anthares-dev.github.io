@@ -1,0 +1,502 @@
+[
+  {
+    "gene": "Gene 1",
+    "sample": "sample_1",
+    "value": 1.117978
+  },
+  {
+    "gene": "Gene 1",
+    "sample": "sample_2",
+    "value": 0.2508621
+  },
+  {
+    "gene": "Gene 1",
+    "sample": "sample_3",
+    "value": -0.4620738
+  },
+  {
+    "gene": "Gene 1",
+    "sample": "sample_4",
+    "value": -0.03174311
+  },
+  {
+    "gene": "Gene 1",
+    "sample": "sample_5",
+    "value": -1.348915
+  },
+  {
+    "gene": "Gene 1",
+    "sample": "sample_6",
+    "value": 0.5267344
+  },
+  {
+    "gene": "Gene 1",
+    "sample": "sample_7",
+    "value": 0.7538688
+  },
+  {
+    "gene": "Gene 1",
+    "sample": "sample_8",
+    "value": -1.652209
+  },
+  {
+    "gene": "Gene 1",
+    "sample": "sample_9",
+    "value": 0.5328022
+  },
+  {
+    "gene": "Gene 1",
+    "sample": "sample_10",
+    "value": 1.339277
+  },
+  {
+    "gene": "Gene 2",
+    "sample": "sample_1",
+    "value": 1.117978
+  },
+  {
+    "gene": "Gene 2",
+    "sample": "sample_2",
+    "value": 0.2508621
+  },
+  {
+    "gene": "Gene 2",
+    "sample": "sample_3",
+    "value": -0.4620738
+  },
+  {
+    "gene": "Gene 2",
+    "sample": "sample_4",
+    "value": -0.03174311
+  },
+  {
+    "gene": "Gene 2",
+    "sample": "sample_5",
+    "value": -1.348915
+  },
+  {
+    "gene": "Gene 2",
+    "sample": "sample_6",
+    "value": 0.5267344
+  },
+  {
+    "gene": "Gene 2",
+    "sample": "sample_7",
+    "value": 0.7538688
+  },
+  {
+    "gene": "Gene 2",
+    "sample": "sample_8",
+    "value": -1.652209
+  },
+  {
+    "gene": "Gene 2",
+    "sample": "sample_9",
+    "value": 0.5328022
+  },
+  {
+    "gene": "Gene 2",
+    "sample": "sample_10",
+    "value": 1.339277
+  },
+  {
+    "gene": "Gene 3",
+    "sample": "sample_1",
+    "value": 1.117978
+  },
+  {
+    "gene": "Gene 3",
+    "sample": "sample_2",
+    "value": 0.2508621
+  },
+  {
+    "gene": "Gene 3",
+    "sample": "sample_3",
+    "value": -0.4620738
+  },
+  {
+    "gene": "Gene 3",
+    "sample": "sample_4",
+    "value": -0.03174311
+  },
+  {
+    "gene": "Gene 3",
+    "sample": "sample_5",
+    "value": -1.348915
+  },
+  {
+    "gene": "Gene 3",
+    "sample": "sample_6",
+    "value": 0.5267344
+  },
+  {
+    "gene": "Gene 3",
+    "sample": "sample_7",
+    "value": 0.7538688
+  },
+  {
+    "gene": "Gene 3",
+    "sample": "sample_8",
+    "value": -1.652209
+  },
+  {
+    "gene": "Gene 3",
+    "sample": "sample_9",
+    "value": 0.5328022
+  },
+  {
+    "gene": "Gene 3",
+    "sample": "sample_10",
+    "value": 1.339277
+  },
+  {
+    "gene": "Gene 4",
+    "sample": "sample_1",
+    "value": 1.117978
+  },
+  {
+    "gene": "Gene 4",
+    "sample": "sample_2",
+    "value": 0.2508621
+  },
+  {
+    "gene": "Gene 4",
+    "sample": "sample_3",
+    "value": -0.4620738
+  },
+  {
+    "gene": "Gene 4",
+    "sample": "sample_4",
+    "value": -0.03174311
+  },
+  {
+    "gene": "Gene 4",
+    "sample": "sample_5",
+    "value": -1.348915
+  },
+  {
+    "gene": "Gene 4",
+    "sample": "sample_6",
+    "value": 0.5267344
+  },
+  {
+    "gene": "Gene 4",
+    "sample": "sample_7",
+    "value": 0.7538688
+  },
+  {
+    "gene": "Gene 4",
+    "sample": "sample_8",
+    "value": -1.652209
+  },
+  {
+    "gene": "Gene 4",
+    "sample": "sample_9",
+    "value": 0.5328022
+  },
+  {
+    "gene": "Gene 4",
+    "sample": "sample_10",
+    "value": 1.339277
+  },
+  {
+    "gene": "Gene 5",
+    "sample": "sample_1",
+    "value": 1.117978
+  },
+  {
+    "gene": "Gene 5",
+    "sample": "sample_2",
+    "value": 0.2508621
+  },
+  {
+    "gene": "Gene 5",
+    "sample": "sample_3",
+    "value": -0.4620738
+  },
+  {
+    "gene": "Gene 5",
+    "sample": "sample_4",
+    "value": -0.03174311
+  },
+  {
+    "gene": "Gene 5",
+    "sample": "sample_5",
+    "value": -1.348915
+  },
+  {
+    "gene": "Gene 5",
+    "sample": "sample_6",
+    "value": 0.5267344
+  },
+  {
+    "gene": "Gene 5",
+    "sample": "sample_7",
+    "value": 0.7538688
+  },
+  {
+    "gene": "Gene 5",
+    "sample": "sample_8",
+    "value": -1.652209
+  },
+  {
+    "gene": "Gene 5",
+    "sample": "sample_9",
+    "value": 0.5328022
+  },
+  {
+    "gene": "Gene 5",
+    "sample": "sample_10",
+    "value": 1.339277
+  },
+  {
+    "gene": "Gene 6",
+    "sample": "sample_1",
+    "value": 1.117978
+  },
+  {
+    "gene": "Gene 6",
+    "sample": "sample_2",
+    "value": 0.2508621
+  },
+  {
+    "gene": "Gene 6",
+    "sample": "sample_3",
+    "value": -0.4620738
+  },
+  {
+    "gene": "Gene 6",
+    "sample": "sample_4",
+    "value": -0.03174311
+  },
+  {
+    "gene": "Gene 6",
+    "sample": "sample_5",
+    "value": -1.348915
+  },
+  {
+    "gene": "Gene 6",
+    "sample": "sample_6",
+    "value": 0.5267344
+  },
+  {
+    "gene": "Gene 6",
+    "sample": "sample_7",
+    "value": 0.7538688
+  },
+  {
+    "gene": "Gene 6",
+    "sample": "sample_8",
+    "value": -1.652209
+  },
+  {
+    "gene": "Gene 6",
+    "sample": "sample_9",
+    "value": 0.5328022
+  },
+  {
+    "gene": "Gene 6",
+    "sample": "sample_10",
+    "value": 1.339277
+  },
+  {
+    "gene": "Gene 7",
+    "sample": "sample_1",
+    "value": 1.117978
+  },
+  {
+    "gene": "Gene 7",
+    "sample": "sample_2",
+    "value": 0.2508621
+  },
+  {
+    "gene": "Gene 7",
+    "sample": "sample_3",
+    "value": -0.4620738
+  },
+  {
+    "gene": "Gene 7",
+    "sample": "sample_4",
+    "value": -0.03174311
+  },
+  {
+    "gene": "Gene 7",
+    "sample": "sample_5",
+    "value": -1.348915
+  },
+  {
+    "gene": "Gene 7",
+    "sample": "sample_6",
+    "value": 0.5267344
+  },
+  {
+    "gene": "Gene 7",
+    "sample": "sample_7",
+    "value": 0.7538688
+  },
+  {
+    "gene": "Gene 7",
+    "sample": "sample_8",
+    "value": -1.652209
+  },
+  {
+    "gene": "Gene 7",
+    "sample": "sample_9",
+    "value": 0.5328022
+  },
+  {
+    "gene": "Gene 7",
+    "sample": "sample_10",
+    "value": 1.339277
+  },
+  {
+    "gene": "Gene 8",
+    "sample": "sample_1",
+    "value": 1.117978
+  },
+  {
+    "gene": "Gene 8",
+    "sample": "sample_2",
+    "value": 0.2508621
+  },
+  {
+    "gene": "Gene 8",
+    "sample": "sample_3",
+    "value": -0.4620738
+  },
+  {
+    "gene": "Gene 8",
+    "sample": "sample_4",
+    "value": -0.03174311
+  },
+  {
+    "gene": "Gene 8",
+    "sample": "sample_5",
+    "value": -1.348915
+  },
+  {
+    "gene": "Gene 8",
+    "sample": "sample_6",
+    "value": 0.5267344
+  },
+  {
+    "gene": "Gene 8",
+    "sample": "sample_7",
+    "value": 0.7538688
+  },
+  {
+    "gene": "Gene 8",
+    "sample": "sample_8",
+    "value": -1.652209
+  },
+  {
+    "gene": "Gene 8",
+    "sample": "sample_9",
+    "value": 0.5328022
+  },
+  {
+    "gene": "Gene 8",
+    "sample": "sample_10",
+    "value": 1.339277
+  },
+  {
+    "gene": "Gene 9",
+    "sample": "sample_1",
+    "value": 1.117978
+  },
+  {
+    "gene": "Gene 9",
+    "sample": "sample_2",
+    "value": 0.2508621
+  },
+  {
+    "gene": "Gene 9",
+    "sample": "sample_3",
+    "value": -0.4620738
+  },
+  {
+    "gene": "Gene 9",
+    "sample": "sample_4",
+    "value": -0.03174311
+  },
+  {
+    "gene": "Gene 9",
+    "sample": "sample_5",
+    "value": -1.348915
+  },
+  {
+    "gene": "Gene 9",
+    "sample": "sample_6",
+    "value": 0.5267344
+  },
+  {
+    "gene": "Gene 9",
+    "sample": "sample_7",
+    "value": 0.7538688
+  },
+  {
+    "gene": "Gene 9",
+    "sample": "sample_8",
+    "value": -1.652209
+  },
+  {
+    "gene": "Gene 9",
+    "sample": "sample_9",
+    "value": 0.5328022
+  },
+  {
+    "gene": "Gene 9",
+    "sample": "sample_10",
+    "value": 1.339277
+  },
+  {
+    "gene": "Gene 10",
+    "sample": "sample_1",
+    "value": 1.117978
+  },
+  {
+    "gene": "Gene 10",
+    "sample": "sample_2",
+    "value": 0.2508621
+  },
+  {
+    "gene": "Gene 10",
+    "sample": "sample_3",
+    "value": -0.4620738
+  },
+  {
+    "gene": "Gene 10",
+    "sample": "sample_4",
+    "value": -0.03174311
+  },
+  {
+    "gene": "Gene 10",
+    "sample": "sample_5",
+    "value": -1.348915
+  },
+  {
+    "gene": "Gene 10",
+    "sample": "sample_6",
+    "value": 0.5267344
+  },
+  {
+    "gene": "Gene 10",
+    "sample": "sample_7",
+    "value": 0.7538688
+  },
+  {
+    "gene": "Gene 10",
+    "sample": "sample_8",
+    "value": -1.652209
+  },
+  {
+    "gene": "Gene 10",
+    "sample": "sample_9",
+    "value": 0.5328022
+  },
+  {
+    "gene": "Gene 10",
+    "sample": "sample_10",
+    "value": 1.339277
+  }
+]
